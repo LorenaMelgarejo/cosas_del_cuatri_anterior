@@ -1,0 +1,8 @@
+C:\Users\George.George-HP\Desktop\2C_2016\guia C#\calculadora\calculadora\bin\Debug\calculadora.exe
+C:\Users\George.George-HP\Desktop\2C_2016\guia C#\calculadora\calculadora\bin\Debug\calculadora.pdb
+C:\Users\George.George-HP\Desktop\2C_2016\guia C#\calculadora\calculadora\obj\x86\Debug\calculadora.csprojResolveAssemblyReference.cache
+C:\Users\George.George-HP\Desktop\2C_2016\guia C#\calculadora\calculadora\obj\x86\Debug\calculadora.Form1.resources
+C:\Users\George.George-HP\Desktop\2C_2016\guia C#\calculadora\calculadora\obj\x86\Debug\calculadora.Properties.Resources.resources
+C:\Users\George.George-HP\Desktop\2C_2016\guia C#\calculadora\calculadora\obj\x86\Debug\calculadora.csproj.GenerateResource.Cache
+C:\Users\George.George-HP\Desktop\2C_2016\guia C#\calculadora\calculadora\obj\x86\Debug\calculadora.exe
+C:\Users\George.George-HP\Desktop\2C_2016\guia C#\calculadora\calculadora\obj\x86\Debug\calculadora.pdb
