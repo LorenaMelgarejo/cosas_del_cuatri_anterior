@@ -1,0 +1,5 @@
+F:\Documentos Lore\Documents\Practicas de C#\calculadora_2017\calculadora_2017\bin\Debug\calculadora_2017.dll
+F:\Documentos Lore\Documents\Practicas de C#\calculadora_2017\calculadora_2017\bin\Debug\calculadora_2017.pdb
+F:\Documentos Lore\Documents\Practicas de C#\calculadora_2017\calculadora_2017\obj\Debug\calculadora_2017.csprojResolveAssemblyReference.cache
+F:\Documentos Lore\Documents\Practicas de C#\calculadora_2017\calculadora_2017\obj\Debug\calculadora_2017.dll
+F:\Documentos Lore\Documents\Practicas de C#\calculadora_2017\calculadora_2017\obj\Debug\calculadora_2017.pdb
