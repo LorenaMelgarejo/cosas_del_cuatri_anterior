@@ -17,8 +17,8 @@ namespace ClassLibrary1
 
         #region Metodos
 
-        private float CalcularCosto()
-        { }
+        private float CalcularCosto() // sera así ??
+        { calcularC=this._costo * this._duracion;}
 
         public Local(Llamada unaLlamada, float costo)
         {
