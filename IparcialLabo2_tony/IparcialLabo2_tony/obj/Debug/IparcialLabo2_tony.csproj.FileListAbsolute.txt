@@ -1,0 +1,5 @@
+F:\Documentos Lore\Documents\Practicas de C#\IparcialLabo2_tony\IparcialLabo2_tony\bin\Debug\IparcialLabo2_tony.exe.config
+F:\Documentos Lore\Documents\Practicas de C#\IparcialLabo2_tony\IparcialLabo2_tony\bin\Debug\IparcialLabo2_tony.exe
+F:\Documentos Lore\Documents\Practicas de C#\IparcialLabo2_tony\IparcialLabo2_tony\bin\Debug\IparcialLabo2_tony.pdb
+F:\Documentos Lore\Documents\Practicas de C#\IparcialLabo2_tony\IparcialLabo2_tony\obj\Debug\IparcialLabo2_tony.exe
+F:\Documentos Lore\Documents\Practicas de C#\IparcialLabo2_tony\IparcialLabo2_tony\obj\Debug\IparcialLabo2_tony.pdb
