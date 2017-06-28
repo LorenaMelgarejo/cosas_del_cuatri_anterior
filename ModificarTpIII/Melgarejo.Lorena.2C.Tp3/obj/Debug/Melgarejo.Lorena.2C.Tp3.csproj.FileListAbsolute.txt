@@ -1,0 +1,5 @@
+F:\Documentos Lore\Documents\Practicas de C#\Melgarejo.Lorena.2C.Tp3\Melgarejo.Lorena.2C.Tp3\bin\Debug\Melgarejo.Lorena.2C.Tp3.exe.config
+F:\Documentos Lore\Documents\Practicas de C#\Melgarejo.Lorena.2C.Tp3\Melgarejo.Lorena.2C.Tp3\bin\Debug\Melgarejo.Lorena.2C.Tp3.exe
+F:\Documentos Lore\Documents\Practicas de C#\Melgarejo.Lorena.2C.Tp3\Melgarejo.Lorena.2C.Tp3\bin\Debug\Melgarejo.Lorena.2C.Tp3.pdb
+F:\Documentos Lore\Documents\Practicas de C#\Melgarejo.Lorena.2C.Tp3\Melgarejo.Lorena.2C.Tp3\obj\Debug\Melgarejo.Lorena.2C.Tp3.exe
+F:\Documentos Lore\Documents\Practicas de C#\Melgarejo.Lorena.2C.Tp3\Melgarejo.Lorena.2C.Tp3\obj\Debug\Melgarejo.Lorena.2C.Tp3.pdb

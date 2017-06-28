@@ -1,0 +1,4 @@
+F:\Documentos Lore\Documents\Practicas de C#\Melgarejo.Lorena.2C.Tp3\Excepciones\bin\Debug\Excepciones.dll
+F:\Documentos Lore\Documents\Practicas de C#\Melgarejo.Lorena.2C.Tp3\Excepciones\bin\Debug\Excepciones.pdb
+F:\Documentos Lore\Documents\Practicas de C#\Melgarejo.Lorena.2C.Tp3\Excepciones\obj\Debug\Excepciones.dll
+F:\Documentos Lore\Documents\Practicas de C#\Melgarejo.Lorena.2C.Tp3\Excepciones\obj\Debug\Excepciones.pdb
